@@ -1,0 +1,2 @@
+# goarea
+Testing Go
